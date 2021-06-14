@@ -29,7 +29,7 @@ https://github.com/SuhyunL/Personalized-Channel-Selection-with-Smartphone-Log-Da
 *****    
 
 
-## **2. [ENG] Jewerly Ecommerce Purchasement Analysis / Machine Learning Project**
+## <br/>**2. [ENG] Jewerly Ecommerce Purchasement Analysis / Machine Learning Project**
 https://github.com/SuhyunL/Jewerly-Ecommerce-Store-Analysis-ML
 
 ![image](https://user-images.githubusercontent.com/75061420/121826612-955dbe00-ccf3-11eb-8e28-e94c6a2b2eb4.png)
