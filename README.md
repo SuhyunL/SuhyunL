@@ -2,7 +2,7 @@
 #### Majored Ad&Pr, worked in Fashion, studying computer science, <br/>aiming to be a professional fashion data scientist.
 
 - 🏡 Based in Seoul
-- 🧒 Grew up in Korea 🇰🇷 & the US 🇺🇸 - Korea during the semester, America during the vacation.
+- 🧒 Grew up in Korea 🇰🇷 & the US 🇺🇸 <br/>- Korea during the semester, America during the vacation.
 - 🤵‍♀️ Worked in Samsung C&T for a year, as an assistant online merchandiser
 - 👩‍🎓 Majored in Advertisement & Public Relations an Chung Ang University.
 - 👩‍🎓 Graduated Seoul Foreign Language High School
