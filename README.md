@@ -3,9 +3,9 @@
 
 - 🏡 Based on Seoul
 - 🧒 Grew up in Korea🇰🇷 & US🇺🇸 - Korea during the semester, America during the vacation.
+- 🤵‍♀️ Worked in Samsung C&T for an year, as an assistant online merchandiser
 - 👩‍🎓 Majored Advertisement & Public Relations in Chung Ang University.
 - 👩‍🎓 Graduated Seoul Foreign Language High School
-- 🤵‍♀️ Worked in Samsung C&T for an year, as an assistant online merchandiser
 
 # Writing
 - https://suhyun-lee.medium.com/
@@ -38,6 +38,7 @@ https://github.com/SuhyunL/Jewerly-Ecommerce-Store-Analysis-ML
 ![image](https://user-images.githubusercontent.com/75061420/121826659-d3f37880-ccf3-11eb-8b6f-ca64bb005ee1.png)
 ![image](https://user-images.githubusercontent.com/75061420/121827745-30589700-ccf8-11eb-93c7-a44e23577f0e.png)
 ![image](https://user-images.githubusercontent.com/75061420/121826681-000ef980-ccf4-11eb-8e79-c355c7791089.png)
+
 
 
 
