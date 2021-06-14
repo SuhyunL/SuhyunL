@@ -40,7 +40,29 @@ https://github.com/SuhyunL/Jewerly-Ecommerce-Store-Analysis-ML
 ![image](https://user-images.githubusercontent.com/75061420/121826681-000ef980-ccf4-11eb-8e79-c355c7791089.png)
 
 
+*****    
 
+
+## <br/>**3. Crawl & Analze - A program for real time instagram posts crawling & analyze**
+https://github.com/SuhyunL/Crawl-and-Analyze-Instagram-Posts/tree/master
+
+#### Examples
+![](https://imgur.com/fqJji2o.gif)
+
+If you put a keyword '80s',
+- 1990s: The most relatable word with the keyword
+- Music / Rock / Aesthetic : People seemed to think of the 80s as an artistic, memorable, and musical.
+- Nostalgia, Recall, Longing : People consider 80s as the time full of aesthetics and music, so it's natural to miss it!
+
+<br/>
+
+![](https://imgur.com/fImRkEz.gif)
+
+If you put a keyword 'SportyandRich', (FYI- SportyandRich is a brand where the concept is "we sell clothes that Princess Diana might wear after her tennis stroll")
+- Fashion: One of the trend-leading brands, so of course!
+- Aesthetic: To explain Pinteresty - fashion - style, people use the word 'Aesthetic'
+- Golf / Tennis: Considered as upper-class sports, like 'SportyandRich' aiming to be
+- Diana: Their muse, Princess Diana
 
 
 
