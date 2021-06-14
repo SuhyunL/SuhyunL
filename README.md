@@ -16,7 +16,7 @@
 
 
 # Personal Projects
-### **1. [KOR] Smartphone Log Data Analysis and Deep Learning Model Proposal for Personalized Advertising Channel Selection**<br/>
+## **1. [KOR] Smartphone Log Data Analysis and Deep Learning Model Proposal for Personalized Advertising Channel Selection**<br/>
 https://github.com/SuhyunL/Personalized-Channel-Selection-with-Smartphone-Log-Data
 
 ![image](https://user-images.githubusercontent.com/75061420/121827545-6c3f2c80-ccf7-11eb-8b87-038bf2d680be.png)
@@ -24,9 +24,12 @@ https://github.com/SuhyunL/Personalized-Channel-Selection-with-Smartphone-Log-Da
 ![image](https://user-images.githubusercontent.com/75061420/121827625-b45e4f00-ccf7-11eb-94a1-9b61bbf2ea46.png)
 ![image](https://user-images.githubusercontent.com/75061420/121827597-9db7f800-ccf7-11eb-97d2-c2a980ba2d33.png)
 ![image](https://user-images.githubusercontent.com/75061420/121827726-0c955100-ccf8-11eb-9751-f11212a06824.png)
+<br/>
+
+*****    
 
 
-### **2. [ENG] Jewerly Ecommerce Purchasement Analysis / Machine Learning Project**
+## **2. [ENG] Jewerly Ecommerce Purchasement Analysis / Machine Learning Project**
 https://github.com/SuhyunL/Jewerly-Ecommerce-Store-Analysis-ML
 
 ![image](https://user-images.githubusercontent.com/75061420/121826612-955dbe00-ccf3-11eb-8e28-e94c6a2b2eb4.png)
