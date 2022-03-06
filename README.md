@@ -4,7 +4,7 @@
 - 🏡 Based in Seoul
 - 🧒 Grew up in Korea 🇰🇷 & the US 🇺🇸 <br/>- Korea during the semester, America during the vacation.
 - 🤵‍♀️ Worked in Samsung C&T for a year, as an assistant online merchandiser
-- 👩‍🎓 Majored in Advertisement & Public Relations an Chung Ang University.
+- 👩‍🎓 Majored in Advertisement & Public Relations, Chung Ang University.
 - 👩‍🎓 Graduated Seoul Foreign Language High School
 
 # Writing
