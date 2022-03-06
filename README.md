@@ -12,7 +12,7 @@
 
 # Contact
 - suhyun.fr@gmail.com
-- https://www.instagram.com/sueleehyun/
+- https://www.instagram.com/suhynlee/
 
 
 # Personal Projects
