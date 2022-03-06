@@ -9,6 +9,7 @@
 
 # Writing
 - https://suhyun-lee.medium.com/
+- https://blog.naver.com/timharry
 
 # Contact
 - suhyun.fr@gmail.com
