@@ -1,5 +1,5 @@
 # 👋 Hello World, I’m Suhyun Lee
-#### Majored Ad&Pr, worked in Fashion, studying computer science, <br/>aiming to be a professional fashion data scientist.
+#### Majored Ad&Pr, worked in Fashion, studying computer science, <br/>aiming to be a fashion merchandiser.
 
 - 🏡 Based in Seoul
 - 🧒 Grew up in Korea 🇰🇷 & the US 🇺🇸 <br/>- Korea during the semester, America during the vacation.
