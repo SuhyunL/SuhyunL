@@ -2,14 +2,14 @@
 #### Majored Ad&Pr, worked in Fashion, studying computer science, <br/>aiming to be a fashion merchandiser.
 
 - 🏡 Based in Seoul
-- 🧒 Grew up in Korea 🇰🇷 & the US 🇺🇸 <br/>- Korea during the semester, America during the vacation.
+- 🧒 Korean & American background 🇰🇷 🇺🇸 <br/>- My parents are Korean, but my mom's side of the family is American.
 - 🤵‍♀️ Worked in Samsung C&T for a year, as an assistant online merchandiser
 - 👩‍🎓 Majored in Advertisement & Public Relations, Chung Ang University.
 - 👩‍🎓 Graduated Seoul Foreign Language High School
 
 # Writing
-- https://suhyun-lee.medium.com/
-- https://blog.naver.com/timharry
+- [ENG] https://suhyun-lee.medium.com/
+- [KOR] https://blog.naver.com/timharry
 
 # Contact
 - suhyun.fr@gmail.com
@@ -17,14 +17,17 @@
 
 
 # Personal Projects
+
 ## **1. [KOR] Smartphone Log Data Analysis and Deep Learning Model Proposal for Personalized Advertising Channel Selection**<br/>
 https://github.com/SuhyunL/Personalized-Channel-Selection-with-Smartphone-Log-Data
 
-![image](https://user-images.githubusercontent.com/75061420/121827545-6c3f2c80-ccf7-11eb-8b87-038bf2d680be.png)
-![image](https://user-images.githubusercontent.com/75061420/121827555-719c7700-ccf7-11eb-8f51-aa52f4b6ab58.png)
-![image](https://user-images.githubusercontent.com/75061420/121827625-b45e4f00-ccf7-11eb-94a1-9b61bbf2ea46.png)
-![image](https://user-images.githubusercontent.com/75061420/121827597-9db7f800-ccf7-11eb-97d2-c2a980ba2d33.png)
-![image](https://user-images.githubusercontent.com/75061420/121827726-0c955100-ccf8-11eb-9751-f11212a06824.png)
+![PPT  Smartphone Advertisement Project 001](https://user-images.githubusercontent.com/75061420/198035540-7d1c4301-b9fd-46d2-ac76-2b5054568e4e.jpeg)
+![이름 없는 문서](https://user-images.githubusercontent.com/75061420/198034851-d5372c5f-728c-4602-975d-ba6aadc7675f.jpg)
+![PPT  Smartphone Advertisement Project_페이지_10](https://user-images.githubusercontent.com/75061420/198035266-be1eb95f-3541-4a06-b6d6-f787a223029c.jpg)
+![PPT  Smartphone Advertisement Project_페이지_11](https://user-images.githubusercontent.com/75061420/198034866-da238028-8162-4ef9-8411-b8816d043b62.jpg)
+![PPT  Smartphone Advertisement Project_페이지_12](https://user-images.githubusercontent.com/75061420/198035090-eee45305-38fb-42dc-8aee-ba898ded68cb.jpg)
+![PPT  Smartphone Advertisement Project_페이지_13](https://user-images.githubusercontent.com/75061420/198035112-244e5b33-a9ae-4a6c-ac4a-dd413e114003.jpg)
+![PPT  Smartphone Advertisement Project_페이지_14](https://user-images.githubusercontent.com/75061420/198035123-d89e3874-b94b-4537-9f97-fbfb0b72d36c.jpg)
 <br/>
 
 *****    
@@ -33,19 +36,20 @@ https://github.com/SuhyunL/Personalized-Channel-Selection-with-Smartphone-Log-Da
 ## <br/>**2. [ENG] Jewerly Ecommerce Purchasement Analysis / Machine Learning Project**
 https://github.com/SuhyunL/Jewerly-Ecommerce-Store-Analysis-ML
 
-![image](https://user-images.githubusercontent.com/75061420/121826612-955dbe00-ccf3-11eb-8e28-e94c6a2b2eb4.png)
-![image](https://user-images.githubusercontent.com/75061420/121826644-c1793f00-ccf3-11eb-9c58-70bd50395d30.png)
-![image](https://user-images.githubusercontent.com/75061420/121826670-ea013900-ccf3-11eb-95f4-1a465ac47301.png)
-![image](https://user-images.githubusercontent.com/75061420/121826659-d3f37880-ccf3-11eb-8b6f-ca64bb005ee1.png)
-![image](https://user-images.githubusercontent.com/75061420/121827745-30589700-ccf8-11eb-93c7-a44e23577f0e.png)
-![image](https://user-images.githubusercontent.com/75061420/121826681-000ef980-ccf4-11eb-8e79-c355c7791089.png)
-
+![분석 모음](https://user-images.githubusercontent.com/75061420/198020785-1b308435-925e-4dd7-9cc0-e21ee20fed41.jpg)
+![PPT, KOR Jewelry Project_ppt 022](https://user-images.githubusercontent.com/75061420/197989525-f2dae6ee-93c4-41ad-a49d-a51d1c049dde.jpeg)
+![PPT, KOR Jewelry Project_ppt 023](https://user-images.githubusercontent.com/75061420/197989542-1aaf4ddc-7e9d-44d8-92f2-07b3da4bf40c.jpeg)
+![PPT, KOR Jewelry Project_ppt 024](https://user-images.githubusercontent.com/75061420/197989567-f4768b0c-e114-44ce-aa49-a1f01997aed8.jpeg)
+![PPT, KOR Jewelry Project_ppt 027](https://user-images.githubusercontent.com/75061420/197989624-1c1e05ac-8c26-434c-8f3e-97f99acb3e0f.jpeg)
+![PPT, KOR Jewelry Project_ppt 025](https://user-images.githubusercontent.com/75061420/197989672-5d83fc8c-699e-4e98-89b1-ce7e3c933627.jpeg)
+![PPT, KOR Jewelry Project_ppt 031](https://user-images.githubusercontent.com/75061420/197989709-21a414e0-7eec-4f5a-be66-d13cf77a7614.jpeg)
 
 *****    
 
-
 ## <br/>**3. Crawl & Analze - A program for real time instagram posts crawling & analyze**
 https://github.com/SuhyunL/Crawl-and-Analyze-Instagram-Posts/tree/master
+
+This is a program that searches and crawls 3,000 Instagram posts by hashtag. It returns the token-based sentence analysis for the result. 
 
 #### Examples
 ![](https://imgur.com/fqJji2o.gif)
