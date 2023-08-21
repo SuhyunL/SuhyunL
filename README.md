@@ -1,5 +1,5 @@
 # 👋 Hello World, I’m Suhyun Lee
-#### Majored Ad&Pr, worked in Fashion, studying computer science, <br/>aiming to be a fashion merchandiser.
+#### Majored Ad&Pr, working in Luxury Fashion Merchandising, studying computer science.
 
 - 🏡 Based in Seoul
 - 🧒 Korean & American background 🇰🇷 🇺🇸 <br/> - My parents are Korean, but few mom's side of the family is American.
