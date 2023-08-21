@@ -2,7 +2,7 @@
 #### Majored Ad&Pr, worked in Fashion, studying computer science, <br/>aiming to be a fashion merchandiser.
 
 - 🏡 Based in Seoul
-- 🧒 Korean & American background 🇰🇷 🇺🇸 <br/>- My parents are Korean, but few mom's side of the family is American.
+- 🧒 Korean & American background 🇰🇷 🇺🇸 <br/> - My parents are Korean, but few mom's side of the family is American.
 - 🤵‍♀️ Currently working in Celine Korea as Digital Merchandiser, fully in charge of https://www.celine.com/ko-kr/
 - 👩‍🎓 Majored in Advertisement & Public Relations, Chung Ang University.
 - 👩‍🎓 Graduated Seoul Foreign Language High School
