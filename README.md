@@ -1,5 +1,6 @@
 # 👋 Hello World, I’m Suhyun Lee.
-### I am a digital geek who is always looking for some juicy fashion insight – and furthermore, I am...
+##_I am a digital geek who is always looking for some juicy fashion insight_
+###_– and furthermore, I am..._
 
 - 🏡 Based in Seoul
 - 🧒 Have rich cultural background 🇰🇷 🇺🇸 <br/> - My parents are Korean, but a portion of my maternal family hails from America.
