@@ -1,9 +1,9 @@
 # 👋 Hello World, I’m Suhyun Lee
-#### Majored Ad&Pr, working in Luxury Fashion Merchandising, studying computer science.
+#### Majored Ad&Pr, working in Luxury Fashion, studying data science.
 
 - 🏡 Based in Seoul
 - 🧒 Korean & American background 🇰🇷 🇺🇸 <br/> - My parents are Korean, but few mom's side of the family is American.
-- 🤵‍♀️ Currently working in Celine Korea as Digital Merchandiser, fully in charge of https://www.celine.com/ko-kr/
+- 🤵‍♀️ Currently working in Celine Korea as Digital Merchandiser, in charge of products in https://www.celine.com/ko-kr/
 - 👩‍🎓 Majored in Advertisement & Public Relations, Chung Ang University.
 - 👩‍🎓 Graduated Seoul Foreign Language High School
 
